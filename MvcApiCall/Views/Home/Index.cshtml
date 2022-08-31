@@ -1,0 +1,23 @@
+﻿<h1>All Customers:</h1>
+
+<ol>
+    @if (@Model != null)
+    {
+        @foreach (Customer customer in @Model)
+        {
+            <ul>
+                <li>Full Name: @customer.FirstName @customer.LastName</li>
+                <li>Id Number: @customer.IdNumber</li>
+                <li>Email: @customer.EmailAddress</li>
+                <li>Date of Birth: @customer.DateOfBirth.ToShortDateString()</li>
+                <li>Username: @customer.Username</li>
+            </ul>
+            <br>
+        }
+    }
+    else
+    {
+        <ul>No Customers Currently!</ul>
+    }
+
+</ol>
