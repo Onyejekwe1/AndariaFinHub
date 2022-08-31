@@ -1,0 +1,17 @@
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Infrastructure.deps.json
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Infrastructure.dll
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Infrastructure.pdb
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Application.dll
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Domain.dll
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Application.pdb
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\bin\Debug\net6.0\AndariaFinHub.Domain.pdb
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.AssemblyInfo.cs
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.csproj.CopyComplete
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.dll
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\refint\AndariaFinHub.Infrastructure.dll
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\AndariaFinHub.Infrastructure.pdb
+C:\Repo\AndariaFinHub\src\Common\AndariaFinHub.Infrastructure\obj\Debug\net6.0\ref\AndariaFinHub.Infrastructure.dll
